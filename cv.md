@@ -13,11 +13,11 @@
 
 ## About Me
 
-        I am a frontend developer with a strong passion for creating web applications. My primary goal is to become an expert in web technologies and develop modern, high-performance web applications. My priorities always include continuous learning, ongoing skill improvement, and the implementation of cutting-edge development practices.  
-        I strive for excellence, whether it's the code I write or the user interface that users see. My priority is to provide an outstanding user experience, ensuring that web applications operate at the highest level of performance and functionality.  
-        The pursuit of growth and learning is an integral part of my personal and professional philosophy. I am always ready to explore the latest technologies and actively apply them in practice. My aim is to stay updated on the latest trends in the world of information technology and leverage them in project development.  
-        With a constant desire to grow and evolve, I actively study new technologies, read relevant articles, and follow educational resources. Always on the lookout for opportunities to participate in courses and events, I aim to expand my knowledge in the field of information technology.  
-        I also possess excellent communication skills, which enable me to effectively collaborate with colleagues.
+I am a frontend developer with a strong passion for creating web applications. My primary goal is to become an expert in web technologies and develop modern, high-performance web applications. My priorities always include continuous learning, ongoing skill improvement, and the implementation of cutting-edge development practices.  
+I strive for excellence, whether it's the code I write or the user interface that users see. My priority is to provide an outstanding user experience, ensuring that web applications operate at the highest level of performance and functionality.  
+The pursuit of growth and learning is an integral part of my personal and professional philosophy. I am always ready to explore the latest technologies and actively apply them in practice. My aim is to stay updated on the latest trends in the world of information technology and leverage them in project development.  
+With a constant desire to grow and evolve, I actively study new technologies, read relevant articles, and follow educational resources. Always on the lookout for opportunities to participate in courses and events, I aim to expand my knowledge in the field of information technology.  
+I also possess excellent communication skills, which enable me to effectively collaborate with colleagues.
 
 ## Skills:
 
