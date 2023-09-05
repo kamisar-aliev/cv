@@ -1,12 +1,10 @@
-## CV
-
 # Gamisar Abdulazizov
 
-## Contacts for communication:
+## Contacts for communication
 
 * **Address:** Baku, Azerbaijan / Kyiv Ukraine
 * **Phone:** +99 (450) 981-22-37
-* **E-mail:** freeman.morgan.md@gmail.com
+* **E-mail:** <freeman.morgan.md@gmail.com>
 * **GitHub:** <https://github.com/kamisar-aliev>
 * **Telegram:** <https://t.me/kamisar_aliev>
 * **What'sApp:** <https://wa.me/994509812237>
@@ -19,7 +17,7 @@ The pursuit of growth and learning is an integral part of my personal and profes
 With a constant desire to grow and evolve, I actively study new technologies, read relevant articles, and follow educational resources. Always on the lookout for opportunities to participate in courses and events, I aim to expand my knowledge in the field of information technology.  
 I also possess excellent communication skills, which enable me to effectively collaborate with colleagues.
 
-## Skills:
+## Skills
 
 * JavaScript
 * HTML5
@@ -31,13 +29,13 @@ I also possess excellent communication skills, which enable me to effectively co
 
 ## Code examples
 
-```
+```javascript
 <script>
     alert( 'Привет, мир!' );
 </script>
 ```
 
-## Experience. Junior Dev can list learning projects with skills used and links to source code.
+## Experience. Junior Dev can list learning projects with skills used and links to source code
 
 <https://github.com/kamisar-aliev>
 
