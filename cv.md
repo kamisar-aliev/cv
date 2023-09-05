@@ -45,10 +45,10 @@ I also possess excellent communication skills, which enable me to effectively co
 
 <https://rs.school/>
 
-## English language (level of English, language practice, tell us about it)
+## Languages (level of English, language practice, tell us about it)
 
-* **English**
-* **Ukrainian**
-* **Russian**
-* **Azerbaijani**
-* **Turkish**
+* **English:** A2 (B1 in the process of learning)
+* **Ukrainian:** Proficiency
+* **Russian:** Proficiency
+* **Azerbaijani:** Advanced
+* **Turkish:** Intermediate
