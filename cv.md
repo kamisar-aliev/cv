@@ -47,8 +47,8 @@ I also possess excellent communication skills, which enable me to effectively co
 
 ## English language (level of English, language practice, tell us about it)
 
-English
-Ukrainian
-Russian
-Azerbaijani
-Turkish
+* **English**
+* **Ukrainian**
+* **Russian**
+* **Azerbaijani**
+* **Turkish**
