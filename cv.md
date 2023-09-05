@@ -8,6 +8,7 @@
 * **GitHub:** <https://github.com/kamisar-aliev>
 * **Telegram:** <https://t.me/kamisar_aliev>
 * **What'sApp:** <https://wa.me/994509812237>
+* **Discord:** <https://discordapp.com/users/kamisar_aliev/>
 
 ## About Me
 
