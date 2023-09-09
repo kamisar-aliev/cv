@@ -42,7 +42,16 @@ I also possess excellent communication skills, which enable me to effectively co
 
 ## Education (including completed courses and trainings)
 
-<https://rs.school/>
+### Courses
+
+* [RS School stage0](https://rs.school/)
+* CodeBasics:
+  * [HTML online course | CodeBasics](https://code-basics.com/languages/html)
+  * [CSS: Online Learning | CodeBasics](https://code-basics.com/languages/css)
+* MarkSheet:
+  * [HTML Basics | MarkSheet](https://marksheet.io/html-basics.html)
+  * [HTML Content | MarkSheet](https://marksheet.io/html-content.html)
+  * [CSS Basics | MarkSheet](https://marksheet.io/css-basics.html)
 
 ## Languages (level of English, language practice, tell us about it)
 
