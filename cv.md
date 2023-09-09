@@ -38,7 +38,7 @@ I also possess excellent communication skills, which enable me to effectively co
 
 ## Experience. Junior Dev can list learning projects with skills used and links to source code
 
-<https://github.com/kamisar-aliev>
+<https://github.com/kamisar-aliev/cv>
 
 ## Education (including completed courses and trainings)
 
