@@ -28,7 +28,7 @@ I also possess excellent communication skills, which enable me to effectively co
 * SublimeText
 * Frontend Development from Design Mockups
 
-## Code examples
+## Code Examples
 
 ```javascript
 <script>
